@@ -175,3 +175,7 @@ cython_debug/
 
 # Ignore joblib files
 *.joblib
+
+# Large data files
+student_depression_dataset.csv
+prediction_results.png
