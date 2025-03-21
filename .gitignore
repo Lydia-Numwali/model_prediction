@@ -173,6 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-
-#large files
-.joblib
+# Ignore joblib files
+*.joblib
